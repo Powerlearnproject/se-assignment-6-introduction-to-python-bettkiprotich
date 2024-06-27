@@ -24,7 +24,8 @@ Download: Go to the official Python website (https://www.python.org) and downloa
 Install: Run the installer. Ensure to check "Add Python to PATH" during installation.
 Verify: Open Command Prompt and type python --version to verify the installation.
 Virtual Environment: Create a virtual environment using python -m venv myenv.
-Steps to install Python on macOS/Linux:
+
+## Steps to install Python on macOS/Linux:
 
 macOS: Use Homebrew (brew install python).
 Linux: Use the package manager (e.g., sudo apt-get install python3).
